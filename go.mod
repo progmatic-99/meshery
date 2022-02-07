@@ -35,7 +35,7 @@ require (
 	github.com/jarcoal/httpmock v1.1.0
 	github.com/jinzhu/copier v0.0.0-20190924061706-b57f9002281a
 	github.com/layer5io/gowrk2 v0.0.0-20191111234958-a4c9071c0f87
-	github.com/layer5io/meshery-operator v0.5.1
+	github.com/layer5io/meshery-operator v0.5.2
 	github.com/layer5io/meshkit v0.5.1
 	github.com/layer5io/meshsync v0.1.30
 	github.com/layer5io/nighthawk-go v0.5.0
@@ -61,7 +61,7 @@ require (
 	golang.org/x/oauth2 v0.0.0-20211104180415-d3ed0bb246c8
 	golang.org/x/term v0.0.0-20210503060354-a79de5458b56 // indirect
 	gonum.org/v1/gonum v0.9.3
-	google.golang.org/grpc v1.42.0
+	google.golang.org/grpc v1.44.0
 	google.golang.org/protobuf v1.27.1
 	gopkg.in/yaml.v2 v2.4.0
 	gorm.io/gorm v1.22.2
